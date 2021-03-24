@@ -1,0 +1,17 @@
+body {
+  background-color: magenta;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+}
