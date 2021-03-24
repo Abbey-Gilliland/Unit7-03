@@ -10,7 +10,7 @@ function decide () {
   if (age > 17) {
     document.getElementById('your-movie').innerHTML = 'You can watch a R rated movie alone.'
   } else if (age >= 13) {
-    document.getElementById('your-movie').innerHTML = 'You can watch a PG-13 rated movie alone.' 
+    document.getElementById('your-movie').innerHTML = 'You can watch a PG-13 rated movie alone.'
   } else if (age >= 5) {
     document.getElementById('your-movie').innerHTML = 'You can watch a G rated movie alone.'
   } else {
